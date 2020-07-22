@@ -3,6 +3,12 @@
    :height: 100px
    :align: center
 
+.. raw:: html
+    <div style="margin:auto;">
+    <img alt="https://readthedocs.org/projects/econsa/badge/?version=latest" src="https://camo.githubusercontent.com/5ee5a1dac7affb3e220c10135065ed0d4e07f9d4/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f65636f6e73612f62616467652f3f76657273696f6e3d6c6174657374" data-canonical-src="https://readthedocs.org/projects/econsa/badge/?version=latest" style="max-width:100%;">
+    </div>
+
+
 .. image:: https://readthedocs.org/projects/econsa/badge/?version=latest
     :target: https://econsa.readthedocs.io/en/latest
 
@@ -23,8 +29,6 @@
 
 .. image:: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
     :target: https://ose.zulipchat.com
-
-.. class:: center
 
 econsa
 ======

@@ -1,3 +1,7 @@
+.. image:: econsa_logo_no_type_RGB.svg
+   :width: 9 %
+   :align: center
+   
 econsa
 ======
 
@@ -33,6 +37,6 @@ econsa
 Supported by
 ------------
 
-.. image:: docs/_static/images/OSE_sb_web.svg
+.. image:: OSE_sb_web.svg
     :width: 22 %
-    :target: https://github.com/OpenSourceEconomics/econsa/raw/master/docs/_static/images/OSE_sb_web.svg
+    :target: https://github.com/OpenSourceEconomics

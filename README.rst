@@ -1,6 +1,6 @@
-.. figure:: econsa_logo_no_type_RGB.svg
+.. class:: center
+.. image:: econsa_logo_no_type_RGB.svg
    :width: 10 %
-   :align: center
    
 econsa
 ======

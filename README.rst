@@ -3,27 +3,28 @@
    :height: 100px
    :align: center
 
-.. figure::
-    :width: 100%
-    :image: https://readthedocs.org/projects/econsa/badge/?version=latest
-        :target: https://econsa.readthedocs.io/en/latest
-    :image: https://img.shields.io/badge/License-MIT-yellow.svg
-        :target: https://opensource.org/licenses/MIT
+.. image:: https://readthedocs.org/projects/econsa/badge/?version=latest
+    :target: https://econsa.readthedocs.io/en/latest
 
-    .. image:: https://github.com/OpenSourceEconomics/econsa/workflows/CI/badge.svg
-        :target: https://github.com/OpenSourceEconomics/econsa/actions?query=branch%3Amaster
+.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
+    :target: https://opensource.org/licenses/MIT
 
-    .. image:: https://app.codacy.com/project/badge/Grade/b9d3b1fd4e2a461aa47e212e80f6a0eb
-        :target: https://www.codacy.com/gh/OpenSourceEconomics/econsa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OpenSourceEconomics/econsa&amp;utm_campaign=Badge_Grade
+.. image:: https://github.com/OpenSourceEconomics/econsa/workflows/CI/badge.svg
+    :target: https://github.com/OpenSourceEconomics/econsa/actions?query=branch%3Amaster
 
-    .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-        :target: https://github.com/psf/black
+.. image:: https://app.codacy.com/project/badge/Grade/b9d3b1fd4e2a461aa47e212e80f6a0eb
+    :target: https://www.codacy.com/gh/OpenSourceEconomics/econsa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OpenSourceEconomics/econsa&amp;utm_campaign=Badge_Grade
 
-    .. image:: https://codecov.io/gh/OpenSourceEconomics/econsa/branch/master/graph/badge.svg
-        :target: https://codecov.io/gh/OpenSourceEconomics/econsa
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+    :target: https://github.com/psf/black
 
-    .. image:: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
-        :target: https://ose.zulipchat.com
+.. image:: https://codecov.io/gh/OpenSourceEconomics/econsa/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/OpenSourceEconomics/econsa
+
+.. image:: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
+    :target: https://ose.zulipchat.com
+
+.. class:: center
 
 econsa
 ======

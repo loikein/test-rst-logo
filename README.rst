@@ -1,4 +1,4 @@
-.. image:: econsa_logo_no_type_RGB.svg
+.. figure:: econsa_logo_no_type_RGB.svg
    :width: 10 %
    :align: center
    
